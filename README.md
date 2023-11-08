@@ -1,4 +1,4 @@
-### Привет всем! Меня зовут Александр 👋
+## Привет всем! Меня зовут Александр 👋
 - 😼 Развиваюсь как frontend-разработчик
 - 🚀 Стремлюсь к написанию чистого и приятного глазу кода
 - 🔎 В настоящее время изучаю Redux и Typescript
@@ -18,6 +18,7 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvilCookie322&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Статистика Leetcode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Cookie322&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
  ## Контакты
